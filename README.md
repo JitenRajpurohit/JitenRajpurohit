@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jitendra Singh Rajpurohit</h1>
+<h1 align="center">Hi there 👋, I'm Jiten</h1>
 <h3 align="center">Software Engineer | Java Backend Developer</h3>
 
 <p align="center">
