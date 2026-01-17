@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Java Backend Developer</h3>
 
 <p align="center">
-  I am an experienced Java Backend Developer with over 2 years of experience in designing and deploying high-performance microservices and REST APIs. I specialize in optimizing system performance and enhancing user experience.
+  Software Engineer with 2+ years of experience in Java & Spring Boot ecosystem. Focused on performance optimization, distributed systems, and clean architecture.
 </p>
 <br>
 
